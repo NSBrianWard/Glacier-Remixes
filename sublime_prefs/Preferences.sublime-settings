@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Theme - Glacier/glacier.tmTheme",
+	"font_face": "Cousine",
+	"font_options":
+	[
+		// "bold"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Glacier.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,15 @@
+" add to your .vimrc
+
+set number
+
+syntax enable
+
+"set t_Co=256
+"set t_Co=88
+"let g:CSApprox_attr_map = { 'bold' : 'bold', 'italic' : '', 'sp' : '' }
+
+colorscheme glacier
+
+set guifont=Cousine:h12
+
+set lines=65 columns=100

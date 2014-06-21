@@ -1,0 +1,4 @@
+# add to your bash_profile for os x
+
+export CLICOLOR=1
+export LSCOLORS=GxFxCxDxBxegedabagagaced
