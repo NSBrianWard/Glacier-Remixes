@@ -1,4 +1,4 @@
-Glacier--Remixes-
+Glacier Remixes
 =================
 
 Stayed up all night and got @joeyfigaro's wonderful Glacier theme working for Vim, Xcode, and OS X's Terminal.app. There are some color syncing issues, but it's a place to start!
