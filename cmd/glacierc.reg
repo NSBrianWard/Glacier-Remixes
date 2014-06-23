@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; The background color isn't mapped right at the moment
+
 [HKEY_CURRENT_USER\Console]
 "ColorTable00"=dword:004d443c
 "ColorTable01"=dword:00856b26
