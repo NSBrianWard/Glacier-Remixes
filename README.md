@@ -1,7 +1,14 @@
 Glacier Remixes
 =================
 
-It's @joeyfigaro's wonderful Glacier theme for Vim, Xcode, PuTTY, and OS X's Terminal.app.
+It's @joeyfigaro's wonderful Glacier theme now remixed for:
+
+* Vim
+* Xcode
+* PuTTY
+* Terminal.app
+
+![Terminal.app](/terminal.png)
 
 To correctly colorize your LS listings, make sure to add the following to your bash profile:
 
