@@ -1,7 +1,7 @@
-# add to your linux bashrc file
-# you might need to enable ls colors first like so: alias ls='ls --color=auto'
+# .bashrc
 
-LS_COLORS='di=34:ln=32:so=1;;35:pi=1;;35:ex=1;;31:bd=45:cd=45:su=41:sg=41:tw=40:ow=40:*.rpm=1;;36'
-export LS_COLORS
+# SPECIFY DIRECTORY COLORS
+export LS_COLORS='di=34:ln=32:so=1;;35:pi=1;;35:ex=1;;31:bd=45:cd=45:su=41:sg=41:tw=40:ow=40:*.rpm=1;;36'
 
+# COLORIZE BASH PROMPT
 export PS1='${debian_chroot:+($debian_chroot)}\[\033[33m\]\h:\W \u$\[\033[0m\] '

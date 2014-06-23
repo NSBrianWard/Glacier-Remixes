@@ -1,20 +1,10 @@
+# .bash_profile
+
 # ENABLE COLOR OUTPUT
 export CLICOLOR=1
 
-# LSCOLORS REFERENCE
-# ex <-- directory
-# cx <-- symlink
-# Fx <-- socket
-# Fx <-- pipe
-# Bx <-- executable
-# xf <-- block special (hardware)
-# xf <-- character special (hardware)
-# xB <-- executable with setuid
-# xB <-- executable with setgid
-# xA <-- directory with sticky bit (writable to others)
-# xA <-- directory with no sticky bit (writable to others)
-# excxFxFxBxxfxfxBxBxexe
+# SET DIRECTORY COLORS
 export LSCOLORS=excxFxFxBxxfxfxBxBxexe
 
-# SET PROMPT COLOR
+# COLORIZE BASH PROMPT
 export PS1="\[\033[33m\]\h:\W \u$\[\033[0m\] "
