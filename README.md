@@ -8,6 +8,12 @@ It's @joeyfigaro's wonderful Glacier theme now remixed for:
 * PuTTY
 * Terminal.app
 
+![VIM](/vim.png)
+
+![Xcode](/xcode.png)
+
+![PuTTY](/putty.png)
+
 ![Terminal.app](/terminal.png)
 
 To correctly colorize your LS listings, make sure to add the following to your bash profile:
