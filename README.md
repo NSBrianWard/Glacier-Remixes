@@ -7,6 +7,7 @@ It's @joeyfigaro's wonderful Glacier theme now remixed for:
 * Xcode
 * PuTTY
 * Terminal.app
+* IntelliJ
 
 ![VIM](/vim.png)
 
@@ -15,6 +16,8 @@ It's @joeyfigaro's wonderful Glacier theme now remixed for:
 ![PuTTY](/putty.png)
 
 ![Terminal.app](/terminal.png)
+
+![IntelliJ](/intellij.png)
 
 To correctly colorize your LS listings, make sure to add the following to your bash profile:
 
