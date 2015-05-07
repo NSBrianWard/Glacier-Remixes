@@ -1,6 +1,5 @@
 #!/bin/sh
 # Glacier - Console color setup script
-#  Wimer Hazenberg (http://www.monokai.nl)
 
 color00="0E/15/1B" # Black
 color01="D7/50/3C" # Red
