@@ -19,6 +19,8 @@ It's @joeyfigaro's wonderful Glacier theme now remixed for:
 
 ![IntelliJ](/intellij.png)
 
+![Linux](/ubuntu_terminal_i3.png)
+
 To correctly colorize your LS listings, make sure to add the following to your bash profile:
 
 **Linux** .bashrc
