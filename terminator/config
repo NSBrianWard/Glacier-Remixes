@@ -1,0 +1,33 @@
+[global_config]
+  title_transmit_bg_color = "#cb253d"
+  focus = system
+  title_inactive_bg_color = "#75797c"
+[keybindings]
+[profiles]
+  [[default]]
+    palette = "#3c444d:#cb253d:#3fb383:#fda543:#266b85:#cb3a2e:#8996a8:#ffffff:#515c68:#cb253d:#52eaa9:#fee380:#329dcd:#f05e33:#afc4db:#ffffff"
+    background_image = None
+    cursor_color = "#7f7f7f"
+    foreground_color = "#ffffff"
+    copy_on_selection = True
+    background_color = "#0e151b"
+    allow_bold = False
+    
+  [[Glacier]]
+    palette = "#3c444d:#cb253d:#3fb383:#fda543:#266b85:#cb3a2e:#8996a8:#ffffff:#515c68:#cb253d:#52eaa9:#fee380:#329dcd:#f05e33:#afc4db:#ffffff"
+    background_image = None
+    cursor_color = "#7f7f7f"
+    foreground_color = "#ffffff"
+    copy_on_selection = True
+    background_color = "#0e151b"
+    allow_bold = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = Glacier
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
