@@ -8,6 +8,7 @@ It's @joeyfigaro's wonderful Glacier theme now remixed for:
 * PuTTY
 * Terminal.app
 * IntelliJ
+* Terminator
 
 ![VIM](/vim.png)
 
@@ -18,6 +19,8 @@ It's @joeyfigaro's wonderful Glacier theme now remixed for:
 ![Terminal.app](/terminal.png)
 
 ![IntelliJ](/intellij.png)
+
+![Terminator](/terminator.png)
 
 To correctly colorize your LS listings, make sure to add the following to your bash profile:
 
